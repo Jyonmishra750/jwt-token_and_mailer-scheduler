@@ -18,3 +18,8 @@ This is a sample Spring Boot application that demonstrates how to implement JWT 
 - JWT
 - Spring Scheduler
 - Swagger
+
+Clone the repository:
+
+   ```sh
+   git remote add origin https://github.com/Jyonmishra750/jwt-token_and_mailer-scheduler.git
